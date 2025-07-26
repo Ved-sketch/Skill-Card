@@ -8,8 +8,8 @@ export default function Card1(){
             <div id="info">
                 <h1>Ved Gupta</h1>
                 <h3>Aspiring Web Dev</h3>
-                <h3 id="college-name">College Name</h3>
-                <h4 id="email">email</h4>
+                <h3 id="college-name">Indian Institute of Information Technology, Vadodara</h3>
+                <h4 id="email">vedgupta1806@gmail.com</h4>
             </div>
         </>
     );
