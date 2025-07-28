@@ -2,6 +2,7 @@ export default function Card2(){
     return (
         <>
             <div className="web-tech">
+                <h3>Web Stack</h3>
                 <ul>
                     <li>HTML</li>
                     <li>CSS</li>
@@ -11,6 +12,7 @@ export default function Card2(){
             </div>
 
             <div className="languages">
+                <h3>Languages</h3>
                 <ul>
                     <li>Python</li>
                     <li>C++</li>
@@ -18,8 +20,11 @@ export default function Card2(){
                 </ul>
             </div>
 
-            <a id="github" href="https://github.com/Ved-sketch" >GitHub</a>
-            <a id="leetcode" href="https://leetcode.com/u/Ved_Gupta06/">Leetcode</a>
+            <div className="social-links">
+                <a id="github" href="https://github.com/Ved-sketch" target="_blank" >GitHub</a>
+                <a id="leetcode" href="https://leetcode.com/u/Ved_Gupta06/" target="_blank" >Leetcode</a>
+            </div>
+
         </>
     );
 }
