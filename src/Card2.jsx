@@ -20,6 +20,16 @@ export default function Card2(){
                 </ul>
             </div>
 
+            <div className="ds-skills">
+                <h3>Data Science Skills</h3>
+                <ul>
+                    <li>Numpy</li>
+                    <li>Pandas</li>
+                    <li>Scikit-Learn</li>
+                    <li>SQL</li>
+                </ul>
+            </div>
+
             <div className="social-links">
                 <a id="github" href="https://github.com/Ved-sketch" target="_blank" >GitHub</a>
                 <a id="leetcode" href="https://leetcode.com/u/Ved_Gupta06/" target="_blank" >Leetcode</a>
