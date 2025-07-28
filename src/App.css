@@ -21,6 +21,12 @@
   font-style: normal;
 }
 
+.toggle-button{
+  border-width: 0px;
+  background-color: #ffa0d1;
+  border-radius: 50px;
+}
+
 .card-title{
   padding-bottom: 1rem;
 }
